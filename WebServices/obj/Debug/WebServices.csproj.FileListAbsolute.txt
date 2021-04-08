@@ -1,0 +1,12 @@
+C:\Users\David117Master\Documents\Visual Studio 2019\Projects\WebApiUsers\ApiWebUsers\WebServices\bin\Debug\WebServices.dll.config
+C:\Users\David117Master\Documents\Visual Studio 2019\Projects\WebApiUsers\ApiWebUsers\WebServices\bin\Debug\WebServices.dll
+C:\Users\David117Master\Documents\Visual Studio 2019\Projects\WebApiUsers\ApiWebUsers\WebServices\bin\Debug\WebServices.pdb
+C:\Users\David117Master\Documents\Visual Studio 2019\Projects\WebApiUsers\ApiWebUsers\WebServices\bin\Debug\EntityFramework.dll
+C:\Users\David117Master\Documents\Visual Studio 2019\Projects\WebApiUsers\ApiWebUsers\WebServices\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\David117Master\Documents\Visual Studio 2019\Projects\WebApiUsers\ApiWebUsers\WebServices\bin\Debug\EntityFramework.xml
+C:\Users\David117Master\Documents\Visual Studio 2019\Projects\WebApiUsers\ApiWebUsers\WebServices\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\David117Master\Documents\Visual Studio 2019\Projects\WebApiUsers\ApiWebUsers\WebServices\obj\Debug\WebServices.csproj.CoreCompileInputs.cache
+C:\Users\David117Master\Documents\Visual Studio 2019\Projects\WebApiUsers\ApiWebUsers\WebServices\obj\Debug\WebServices.csproj.CopyComplete
+C:\Users\David117Master\Documents\Visual Studio 2019\Projects\WebApiUsers\ApiWebUsers\WebServices\obj\Debug\WebServices.dll
+C:\Users\David117Master\Documents\Visual Studio 2019\Projects\WebApiUsers\ApiWebUsers\WebServices\obj\Debug\WebServices.pdb
+C:\Users\David117Master\Documents\Visual Studio 2019\Projects\WebApiUsers\ApiWebUsers\WebServices\obj\Debug\WebServices.csprojAssemblyReference.cache
